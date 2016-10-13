@@ -3,13 +3,14 @@ package server
 import (
 	"crypto/tls"
 	"math/rand"
-	"ngrok/conn"
-	log "ngrok/log"
-	"ngrok/msg"
-	"ngrok/util"
 	"os"
 	"runtime/debug"
 	"time"
+
+	"github.com/shamork/ngrok/src/ngrok/conn"
+	log "github.com/shamork/ngrok/src/ngrok/log"
+	"github.com/shamork/ngrok/src/ngrok/msg"
+	"github.com/shamork/ngrok/src/ngrok/util"
 )
 
 const (

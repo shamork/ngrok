@@ -3,7 +3,7 @@
 package client
 
 import (
-	"ngrok/client/mvc"
+	"github.com/shamork/ngrok/src/ngrok/client/mvc"
 )
 
 // no auto-updating in debug mode

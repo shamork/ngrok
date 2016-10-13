@@ -4,10 +4,11 @@ import (
 	"encoding/gob"
 	"fmt"
 	"net"
-	"ngrok/cache"
-	"ngrok/log"
 	"sync"
 	"time"
+
+	"github.com/shamork/ngrok/src/ngrok/cache"
+	"github.com/shamork/ngrok/src/ngrok/log"
 )
 
 const (

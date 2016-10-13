@@ -2,10 +2,10 @@ package term
 
 import (
 	termbox "github.com/nsf/termbox-go"
-	"ngrok/client/mvc"
-	"ngrok/log"
-	"ngrok/proto"
-	"ngrok/util"
+	"github.com/shamork/ngrok/src/ngrok/client/mvc"
+	"github.com/shamork/ngrok/src/ngrok/log"
+	"github.com/shamork/ngrok/src/ngrok/proto"
+	"github.com/shamork/ngrok/src/ngrok/util"
 	"unicode/utf8"
 )
 

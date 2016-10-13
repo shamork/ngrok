@@ -3,10 +3,10 @@ package server
 import (
 	"crypto/tls"
 	"fmt"
-	vhost "github.com/inconshreveable/go-vhost"
+	vhost "github.com/shamork/go-vhost"
 	//"net"
-	"ngrok/conn"
-	"ngrok/log"
+	"github.com/shamork/ngrok/src/ngrok/conn"
+	"github.com/shamork/ngrok/src/ngrok/log"
 	"strings"
 	"time"
 )
