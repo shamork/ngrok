@@ -1,0 +1,54 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "SOgyOkUAXZkcDt21vEjCRRKYYjg=",
+			"path": "github.com/alecthomas/log4go",
+			"revision": "e5dc62318d9bd58682f1dceb53a4b24e8253682f",
+			"revisionTime": "2016-03-07T01:12:53Z"
+		},
+		{
+			"checksumSHA1": "mMHT+mzAgdReYgu8zCqQxI1BnLk=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "2d1e4548da234d9cb742cc3628556fef86aafbac",
+			"revisionTime": "2016-09-12T15:30:41Z"
+		},
+		{
+			"checksumSHA1": "fFRK7OwwzXtCmqLYMPZ+hc4yd1c=",
+			"path": "github.com/inconshreveable/go-vhost",
+			"revision": "06d84117953b22058c096b49a429ebd4f3d3d97b",
+			"revisionTime": "2016-06-27T19:31:04Z"
+		},
+		{
+			"checksumSHA1": "UYDU8nJJ/RXSTrR+dgQodj78uQI=",
+			"path": "github.com/inconshreveable/mousetrap",
+			"revision": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75",
+			"revisionTime": "2014-10-17T20:07:13Z"
+		},
+		{
+			"checksumSHA1": "0EbIiM2NAjPjW6FT9lf3UevJzGM=",
+			"path": "github.com/mattn/go-runewidth",
+			"revision": "737072b4e32b7a5018b4a7125da8d12de90e8045",
+			"revisionTime": "2016-10-12T01:35:12Z"
+		},
+		{
+			"checksumSHA1": "02yjSx7OUW9CLWmSjhIzRIz3gtg=",
+			"path": "github.com/nsf/termbox-go",
+			"revision": "b6acae516ace002cb8105a89024544a1480655a5",
+			"revisionTime": "2016-09-13T19:16:50Z"
+		},
+		{
+			"checksumSHA1": "+yZxFRm3leIBDLHJeM8BK6fsUhg=",
+			"path": "github.com/rcrowley/go-metrics",
+			"revision": "ab2277b1c5d15c3cba104e9cbddbdfc622df5ad8",
+			"revisionTime": "2016-09-21T19:52:07Z"
+		},
+		{
+			"checksumSHA1": "MGk7cSnHqiL5soaovzgcJaNH3fc=",
+			"path": "gopkg.in/yaml.v1",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/inconshreveable/ngrok/src"
+}
